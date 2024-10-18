@@ -88,14 +88,14 @@ login with <instance ip : 9010 > to access product page
 
   <h2>KIALI DASHBOARD </h2>
 
-      ![P1](https://github.com/user-attachments/assets/424e3dbe-8910-4a06-9fdd-3935cfb12272)
+   ![P1](https://github.com/user-attachments/assets/424e3dbe-8910-4a06-9fdd-3935cfb12272)
 
   <h3>Metrics and Mesh </h3>
   
-      ![P3](https://github.com/user-attachments/assets/f9b3a6ec-0f5c-462f-a1f3-de7d3cab0749)
+   ![P3](https://github.com/user-attachments/assets/f9b3a6ec-0f5c-462f-a1f3-de7d3cab0749)
 
 
   <h2>Product Page </h2>
 
-       ![P2](https://github.com/user-attachments/assets/6d89ae3f-ef94-4b0a-a203-3849b81d0025)
+   ![P2](https://github.com/user-attachments/assets/6d89ae3f-ef94-4b0a-a203-3849b81d0025)
 
